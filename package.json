@@ -1,0 +1,29 @@
+{
+  "name": "cardify",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DImplementacion\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\"\u001b[D pluggin cardify es6\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "scripts": {
+    "build": "babel --presets env src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielamf/cardify.git"
+  },
+  "keywords": [
+    "cardify"
+  ],
+  "author": "Yanina Mercado - Gabriela Mamani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielamf/cardify/issues"
+  },
+  "homepage": "https://github.com/gabrielamf/cardify#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
