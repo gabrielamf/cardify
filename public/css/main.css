@@ -3,41 +3,28 @@
   padding: 0;
   box-sizing: border-box
 }
-
 body {
   background-color: white;
   font-family: 'Dosis', sans-serif;
 }
-/* .container { 
-  margin: 5% auto;
-  width: 90%;
-  padding: 0 80px;
-  margin-top: 150px;
-  column-width: 30%;
-  column-count: 3;
-  column-gap:20px;
-  outline: 1px solid red;
-  height: auto;
-}*/
-/*
-.img {
-  width: 100%;
-}*/
-
-/*. {
-  margin: 0 auto;
-  widows: 100%;
-}*/
+.separation {
+  margin-top: 100px;
+}
 .navbar {
   height: 8rem;
-  background-color: #fda11f;
+  background-color: #2e505c;
+  border: none;
+}
+.logo {
+  color: white;
 }
 .figure {
   background:#fcd800;
   color: #2e2b23;
-  /* font-size: 2rem; */
+  font-size: 2rem;
   margin-bottom: 1rem;
   position: relative;
+  text-transform: upppercase;
 }
 .padding-col {
   padding-right: 0;
@@ -48,32 +35,86 @@ body {
   vertical-align: middle;
   justify-content: center;
 }
-
 .presentation {
   background-color: #a4dbe4;
   height: 80vh;
-  border-left: 1.5rem solid white;
   padding: 5rem;
-
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
 }
-
 .title {
   color: white;
-  font-size: 8rem;
+  font-size: 5rem;
   font-weight: 400;
+  margin-bottom: 4rem;
 }
-.subtitle {
-  background-color: white;
-  color: #3d5f6b;
-  display: inline-block;
-  padding: 1rem;
+hr {
+  border: .7px solid white;
 }
-
 p {
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: #3d5f6b;
 }
-
-h2 {
-  
+.button-white {
+  padding: 1.5rem 3rem;
+  border: 1px solid white;
+  margin-top: 3rem;
+  background-color: transparent;
+  color: white;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 5rem;
+}
+.button-white:hover {
+  background-color: #3d5f6b;
+  border: none;
+  color: white;
+}
+.subsection {
+  background-color: #90c6ce;
+  height: 113vh;
+  padding: 5rem;
+}
+.icon-home {
+  font-size: 5rem;
+  color: white;
+  border: 1px solid white;
+  padding: 3rem;
+  border-radius: 50%;
+}
+.icon-home:hover {
+  color: #fcd800;
+  border: 1px solid #fcd800;
+}
+.info{
+  font-size: 4rem;
+  font-weight: 400;
+  border: 1px solid white;
+  display: block;
+  padding: 1rem 4rem;
+  margin-top: 9rem;
+  color: white;
+  margin-bottom: 7rem;
+}
+.items {
+  display: block;
+  margin: 2rem;
+  color: white;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 7px;
+}
+.items:hover {
+  color: #3d5f6b;
+  text-decoration: none;
+}
+.footer-txt {
+  color: #a4dbe4;
+}
+.footer {
+  height: 30%;
+  width: 100%;
+  background-color: #354e57;
+  padding: 2rem;
 }

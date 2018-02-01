@@ -18,7 +18,9 @@
           $(element).next().addClass('figcaption').css({
             width: width,
             height: height,
-            'line-height': height + 'px'
+            'line-height': height + 'px',
+            'text-transform': 'uppercase',
+            'transition': '1s',
           }).hide();
           $(element).parent().addClass('figure').css({
             width: width,
