@@ -5,7 +5,7 @@
         $(this).find('img').each((index, element) => {
           $(element).wrap('<figure></figure>');
           let width = $(element).width();
-          let height = $(element).height(); // Coloca texto de alt en figcaption
+          let height = $(element).height();
           let text = $(element).attr('alt');
           $(element).css({
             width: width,

@@ -4,10 +4,7 @@
   "description": "\"\"\u001b[DImplementacion\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\"\u001b[D pluggin cardify es6\"",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d dist"
-  },
-  "scripts": {
-    "build": "babel --presets env src -d dist"
+    "build": "babel --presets env src -d public/js"
   },
   "repository": {
     "type": "git",

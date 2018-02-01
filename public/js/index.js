@@ -1,6 +1,6 @@
 'use strict';
 
-(function ($) {
+(function($) {
   $.fn.extend({
     cardify: function cardify() {
       var _this = this;
