@@ -21,6 +21,6 @@ jQuery(function ($) {
 
 ![img-readme](public/assets/images/flujo.png)
 
-## Modelo Final
+## Demo
 
 ![img-readme](public/assets/images/modelofinal.png)
