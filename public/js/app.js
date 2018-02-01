@@ -1,5 +1,5 @@
 'use strict';
 
 jQuery(function($) {
-  return $('.container').cardify({});
+  return $('.contenedor').cardify({});
 });

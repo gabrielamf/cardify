@@ -1,1 +1,1 @@
-jQuery($ => $('.gallery').cardify({}));
+jQuery($ => $('.contenedor').cardify({}));
