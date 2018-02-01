@@ -1,7 +1,7 @@
 {
   "name": "cardify",
   "version": "1.0.0",
-  "description": "\"\"\u001b[DImplementacion\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[i\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\"\u001b[D pluggin cardify es6\"",
+  "description": "implementacion de pluggin",
   "main": "index.js",
   "scripts": {
     "build": "babel --presets env src -d public/js"
