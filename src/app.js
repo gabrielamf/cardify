@@ -1,1 +1,3 @@
-jQuery($ => $('.contenedor').cardify({}));
+$(document).ready(function() {
+  jQuery($ => $('.contenedor').cardify({}));
+});

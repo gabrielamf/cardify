@@ -26,9 +26,7 @@ body {
   position: relative;
   text-transform: upppercase;
 }
-.padding-col {
-  padding-right: 0;
-}
+
 .figcaption {
   position: absolute;
   text-align: center;
@@ -44,7 +42,7 @@ body {
   margin: 0;
 }
 .title {
-  color: white;
+  color: #3d5f6b;
   font-size: 5rem;
   font-weight: 400;
   margin-bottom: 4rem;
@@ -73,8 +71,11 @@ p {
 }
 .subsection {
   background-color: #90c6ce;
-  height: 113vh;
+  height: 95vh;
   padding: 5rem;
+}
+.padding-col {
+  padding-right: 7.5px;
 }
 .icon-home {
   font-size: 5rem;
@@ -84,8 +85,8 @@ p {
   border-radius: 50%;
 }
 .icon-home:hover {
-  color: #fcd800;
-  border: 1px solid #fcd800;
+  color: #3d5f6b;
+  border: 1px solid #3d5f6b;
 }
 .info{
   font-size: 4rem;

@@ -23,4 +23,4 @@ jQuery(function ($) {
 
 ## Demo
 
-![img-readme](public/assets/images/modelofinal.png)
+![img-readme](public/assets/images/img-demo.png)

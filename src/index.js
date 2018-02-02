@@ -19,12 +19,12 @@
           $(element).parent().addClass('figure').css({
             width: width,
             height: height
-          }).mouseover(() => {
-            $(element).hide();
-            $(element).next().show();
-          }).mouseout(() => {
-            $(element).show();
-            $(element).next().hide();
+          }).mouseenter(() => {
+            $(element).fadeOut('fast');
+            $(element).next().show('slow');
+          }).mouseleave(() => {
+            $(element).fadeIn('slow');
+            $(element).next().hide('slow'); 
           });
         });
       });

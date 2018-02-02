@@ -23,12 +23,12 @@
           $(element).parent().addClass('figure').css({
             width: width,
             height: height
-          }).mouseover(function () {
-            $(element).hide();
-            $(element).next().show();
-          }).mouseout(function () {
-            $(element).show();
-            $(element).next().hide();
+          }).mouseenter(function () {
+            $(element).fadeOut('fast');
+            $(element).next().show('slow');
+          }).mouseleave(function () {
+            $(element).fadeIn('slow');
+            $(element).next().hide('slow');
           });
         });
       });
