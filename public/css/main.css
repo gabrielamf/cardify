@@ -34,38 +34,6 @@ body {
   vertical-align: middle;
   justify-content: center;
 }
-@keyframes bounceInLeft {
-    0% {
-        transform: translateX(-1000px)
-    }
-    34% {
-        animation-timing-function: ease-out;
-        transform: translateX(0px)
-    }
-    52% {
-        transform: translateX(-24px);
-        animation-timing-function: ease-in
-    }
-    70% {
-        transform: translateX(0px);
-        animation-timing-function: ease-out
-    }
-    79% {
-        transform: translateX(-8px);
-        animation-timing-function: ease-in
-    }
-    88% {
-        transform: translateX(0px);
-        animation-timing-function: ease-out
-    }
-    94% {
-        transform: translateX(-3px);
-        animation-timing-function: ease-in
-    }
-    100% {
-        transform: translateX(0px)
-    }
-}
 .ancor{
   position: absolute;
   left:2rem;
