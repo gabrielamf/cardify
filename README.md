@@ -6,7 +6,7 @@ Es un plugin de jQuery que dado un contenedor busca las imagenes, envuelve en fi
 
 ## Uso 
  1.- ir a la web y descargar:
- [cardigy.com](https://github.com/gabrielamf/cardify)
+ [cardigy.com](https://gabrielamf.github.io/cardify/public/index.html)
  
  2.- Incluir en HTML:
  
@@ -46,6 +46,6 @@ jQuery(function ($) {
 
 ![img-readme](public/assets/images/flujo.png)
 
-## Demo:  [www.cardigy.com](https://github.com/gabrielamf/cardify)
+## Demo:  [www.cardigy.com](https://gabrielamf.github.io/cardify/public/index.html)
 
 ![img-readme](public/assets/images/img-demo.png)
