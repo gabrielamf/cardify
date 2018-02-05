@@ -46,6 +46,6 @@ jQuery(function ($) {
 
 ![img-readme](public/assets/images/flujo.png)
 
-## Demo
+## Demo:  [www.cardigy.com](https://github.com/gabrielamf/cardify)
 
 ![img-readme](public/assets/images/img-demo.png)
