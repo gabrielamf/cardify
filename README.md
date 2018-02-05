@@ -24,7 +24,7 @@ jQuery(function ($) {
 
 
 [![node](https://img.shields.io/node/v/passport/latest.svg)](https://nodejs.org/en/download/releases/) [![npm](https://img.shields.io/npm/v/npm.svg)](https://nodejs.org/en/download/releases/)
-[![js]https://img.shields.io/github/languages/top/badges/shields.svg
+[![js](https://img.shields.io/github/languages/top/badges/shields.svg)
 
 
 
