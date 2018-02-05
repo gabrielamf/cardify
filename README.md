@@ -11,7 +11,16 @@ Es un plugin de jQuery que dado un contenedor busca las imagenes, envuelve en fi
 jQuery(function ($) {
   return $('.contenedor').cardify({});
 });
-``` 
+```
+## Herramientas Tecnológicas
+ * **[ECMA script 6:](http://es6-features.org/)**
+ * **[Bootstrap:](http://getbootstrap.com/docs/3.3/)**   
+ * **[Font Awesome:](https://fontawesome.com/icons)**  
+ * **[Firebase :](https://console.firebase.google.com/)**
+
+
+
+
 
 ## Planificación
 
