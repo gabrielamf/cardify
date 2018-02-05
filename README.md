@@ -17,6 +17,11 @@ jQuery(function ($) {
  - **[Bootstrap 3.3](http://getbootstrap.com/docs/3.3/)**   
  - **[Font Awesome](https://fontawesome.com/icons)**  
  - **[Firebase ](https://console.firebase.google.com/)**
+ - **[Babel ](https://babeljs.io/docs/setup/#installation)**
+ - **[Html 5 ](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**
+ - **[Css 3 ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)**
+ - **[Node.js 8.9.4 npm ](https://nodejs.org/en/)**
+
 
 
 
