@@ -5,7 +5,9 @@ Cardify
 Es un plugin de jQuery que dado un contenedor busca las imagenes, envuelve en figure y agrega figcaption dentro de este el alt de la imagen al pasar el mouse muestra el figcaption con el alt centrado y oculta la imagen 
 
 ## Uso 
- 1.- ir a la web y descargar:  [Descargar](https://github.com/gabrielamf/cardify)
+ 1.- ir a la web y descargar:
+ [cardigy.com](https://github.com/gabrielamf/cardify)
+ 
  2.- Incluir en HTML:
  
 ```javascript
