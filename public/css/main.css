@@ -143,3 +143,25 @@ p {
   background-color: #354e57;
   padding: 2rem;
 }
+label.files{
+  border-radius: 5px;
+  padding: 7px 8px;
+  font-size: 1.5rem;
+  height: auto;
+  color: #FFF;
+  margin-top: 2.5rem;
+  cursor: pointer;
+}
+.input-files{
+  visibility: hidden;
+}
+span.align-left{
+  margin-left: 5px;
+}
+
+section#arephotosFB {
+    width: 600px;
+    margin: 0 auto;
+    background: #eeeeee85;
+    overflow: hidden;
+}
