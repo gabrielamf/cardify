@@ -13,10 +13,10 @@ jQuery(function ($) {
 });
 ```
 ## Herramientas Tecnológicas
- * **[ECMA script 6](http://es6-features.org/)**
- * **[Bootstrap 3.3](http://getbootstrap.com/docs/3.3/)**   
- * **[Font Awesome](https://fontawesome.com/icons)**  
- * **[Firebase ](https://console.firebase.google.com/)**
+ - **[ECMA script 6](http://es6-features.org/)**
+ - **[Bootstrap 3.3](http://getbootstrap.com/docs/3.3/)**   
+ - **[Font Awesome](https://fontawesome.com/icons)**  
+ - **[Firebase ](https://console.firebase.google.com/)**
 
 
 
