@@ -165,3 +165,12 @@ section#arephotosFB {
     background: #eeeeee85;
     overflow: hidden;
 }
+.alignLeft {
+  position: absolute;
+  right: 2rem;
+  line-height: 8rem;
+}
+
+.botonesUp {
+  margin: 0 .5rem;
+}
