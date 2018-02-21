@@ -174,3 +174,37 @@ section#arephotosFB {
 .botonesUp {
   margin: 0 .5rem;
 }
+
+@media only screen and (max-width: 500px) {
+  body {
+      background-color: #a4dbe4;
+  }
+  .subsection {
+    margin-top: 10rem;
+    background-color: #90c6ce;
+    height: 100vh;
+    padding: 5rem;
+  }
+  .info{
+    font-size: 3rem;
+    font-weight: 400;
+    border: 1px solid white;
+    display: block;
+    margin-top: 9rem;
+    color: white;
+    margin-bottom: 7rem;
+  }
+  .title {
+    color: #3d5f6b;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 4rem;
+  }
+  .footer {
+    height: 30%;
+    width: 100%;
+    background-color: #354e57;
+    padding: 2rem;
+    margin-top: 15rem;
+  }
+}
