@@ -122,6 +122,7 @@ p {
   font-weight: 700;
   font-size: 1.5rem;
   letter-spacing: 7px;
+  margin-bottom: 2.8rem;
 }
 .items:hover {
   color: #3d5f6b;
@@ -175,6 +176,7 @@ section#arephotosFB {
   .subsection {
     background-color: #90c6ce;
     padding: 5rem;
+    height: auto;
   }
   .info{
     font-size: 3rem;
